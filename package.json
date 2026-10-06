@@ -1,0 +1,9 @@
+{
+  "name": "kas-kelas",
+  "dependencies": { "mongodb": "^6.3.0" }
+}
+kas-kelas/
+├── api/
+│   └── data.js      ← Kode 1 (sudah ✅)
+├── index.html       ← Kode 2 (paste sekarang)
+└── package.json     ← Kode 3 (paste setelahnya)
